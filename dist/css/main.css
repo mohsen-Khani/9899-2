@@ -145,3 +145,7 @@ a {
 .tab-pane{
     margin-top: 5%;
 }
+ul.en-list{
+    direction:ltr;
+    text-align: left;
+}
